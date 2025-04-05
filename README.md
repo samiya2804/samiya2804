@@ -35,8 +35,7 @@ I specialize in crafting scalable web applications and intelligent machine learn
 
 - **[Innova- Stock trading platform](https://github.com/samiya2804/Innova--Stock-Trading-Platform-.git):** A UI replica of the Zerodha dashboard using React components and a slick, responsive frontend recreation of India’s leading stock trading platform. Designed with React, powered by Material UI, and brought to life with dynamic charts using Chart.js .
 - **[Wanderlust-Full stack web application for media uploads and geolocation services](https://github.com/samiya2804/Wanderlust.git):** Integrated secure user authentication with login, registration, Geolocation and Mapping, Multer & Cloudinary.
-
--**[Movie recommender System](https://github.com/samiya2804/movie-recommender-system.git) : **This movie recommendation system, built with Stream lit in PyCharm, suggests five similar movies based on a chosen title. Key tools include Pandas, Scikit-Learn, and Numpy libraries.
+- **[Movie recommender System](https://github.com/samiya2804/movie-recommender-system.git) : **This movie recommendation system, built with Stream lit in PyCharm, suggests five similar movies based on a chosen title. Key tools include Pandas, Scikit-Learn, and Numpy libraries.
 ---
 
 ### 📈 GitHub Stats
